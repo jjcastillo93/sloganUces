@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Neonderthaw&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+.contendorTexto {
+    margin-top: 15vh;
+}
+
+.fondo {
+    background-image: linear-gradient(rgba(0, 100, 0, 0.5), rgba(16, 48, 16, 0.5)), url('../assets/img/abstract-cityscape-illustration.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif; /* Ejemplo de uso de la fuente Roboto de Google Fonts */
+}
